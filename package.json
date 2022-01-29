@@ -12,5 +12,10 @@
     "install": "^0.13.0",
     "jest": "^27.4.7",
     "npm": "^8.4.0"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.8",
+    "nodemon": "^2.0.15"
   }
 }
